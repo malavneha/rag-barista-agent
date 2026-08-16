@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Classic Cappuccino",
+    "description": "Espresso with steamed milk and a thick layer of milk foam.",
+    "tags": ["coffee", "hot", "classic"],
+    "allergens": ["milk"]
+  },
+  {
+    "name": "Vanilla Latte",
+    "description": "Espresso blended with steamed milk and vanilla syrup.",
+    "tags": ["coffee", "hot", "sweet"],
+    "allergens": ["milk"]
+  },
+  {
+    "name": "Americano",
+    "description": "Espresso combined with hot water for a smooth, bold coffee.",
+    "tags": ["coffee", "hot", "black"],
+    "allergens": []
+  },
+  {
+    "name": "Mocha",
+    "description": "Espresso with chocolate and steamed milk, topped with foam.",
+    "tags": ["coffee", "hot", "chocolate", "sweet"],
+    "allergens": ["milk"]
+  },
+  {
+    "name": "Iced Caramel Coffee",
+    "description": "Cold coffee with caramel syrup served over ice.",
+    "tags": ["coffee", "cold", "sweet"],
+    "allergens": ["milk"]
+  },
+  {
+    "name": "Green Tea",
+    "description": "A refreshing brewed green tea served hot.",
+    "tags": ["tea", "hot", "light"],
+    "allergens": []
+  }
+]
